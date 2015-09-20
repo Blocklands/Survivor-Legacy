@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 !.gitignore
 !/minecraft
@@ -11,3 +12,22 @@
 !/minecraft/config/*
 !/minecraft/scripts/*
 !/minecraft/resourcepacks/*
+=======
+natives
+patches
+asm
+minetweaker.log
+OpenComputersMod-1.5.15.31-lua52-native.64.dll
+OpenComputersMod-1.5.15.31-lua53-native.64.dll
+usernamecache.json
+blueprints
+coremods
+fonts
+imcScripts
+logs
+resourcepacks
+saves
+screenshots
+texturepacks
+icon.png
+>>>>>>> 0d08bdcb67e4c9c879475f724ea37b2cae39c33f
