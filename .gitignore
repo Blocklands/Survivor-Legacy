@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!/minecraft
+!README.md
+
+/minecraft/*
+!/minecraft/config/
+!/minecraft/mods/
+!/minecraft/scripts/
+!/minecraft/resourcepacks/
+!/minecraft/config/*
+!/minecraft/scripts/*
+!/minecraft/resourcepacks/*
