@@ -393,9 +393,9 @@
                     <Description> Equivalent to vanilla minecraft iron distribution </Description>
                     <DrawWireframe>:=drawWireframes</DrawWireframe>
                     <WireframeColor>0x40221100</WireframeColor> 
-                    <Setting name='Size' avg=':= ironSize * _default_'/> 
+                    <Setting name='Size' avg=':= 2 * ironSize * _default_'/> 
                     <Setting name='Frequency' avg=':= ironFreq * _default_'/>
-                    <Setting name='Height' avg='32' range='32' scaleTo='sealevel'/> 
+                    <Setting name='Height' avg='48' range='48' scaleTo='sealevel'/> 
                 </StandardGen> 
             </IfCondition>
             
@@ -455,7 +455,7 @@
                     <DrawWireframe>:=drawWireframes</DrawWireframe>
                     <WireframeColor>0x40443300</WireframeColor> 
                     <Setting name='Size' avg=':= goldSize * _default_'/> 
-                    <Setting name='Frequency' avg=':= 0.1 * goldFreq * _default_'/>
+                    <Setting name='Frequency' avg=':= 0.2 * goldFreq * _default_'/>
                     <Setting name='Height' avg=':= 16/64 * dimension.groundLevel' range=':= 16/64 * dimension.groundLevel'/>
                 </StandardGen> 
             </IfCondition>
