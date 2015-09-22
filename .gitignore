@@ -1,9 +1,10 @@
+*
 /*
 !.gitignore
 !/minecraft
 !README.md
 
-/minecraft/*					
+/minecraft/*		
 !/minecraft/config/
 !/minecraft/mods/
 !/minecraft/scripts/
@@ -11,3 +12,5 @@
 !/minecraft/config/*
 !/minecraft/scripts/*
 !/minecraft/resourcepacks/*
+
+/minecraft/config/MapWriterBlockColours.txt
