@@ -14,3 +14,5 @@
 !/minecraft/resourcepacks/*
 
 /minecraft/config/MapWriterBlockColours.txt
+/minecraft/options.txt
+/minecraft/config/splash.properties
