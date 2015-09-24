@@ -6,6 +6,7 @@
 
 /minecraft/*		
 !/minecraft/config/
+/minecraft/config/*.dat
 !/minecraft/mods/
 !/minecraft/scripts/
 !/minecraft/resourcepacks/
