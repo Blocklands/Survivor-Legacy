@@ -1,5 +1,6 @@
 *.dat
-MapWriterBlockColours.cfg
+MapWriterBlockColours.txt
+MapWriterBlockColourOverrides.txt
 /IguanaTinkerTweaks/restrictions.cfg
 InvTweaks.cfg
 fastcraft.ini
