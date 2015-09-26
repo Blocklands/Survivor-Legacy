@@ -393,8 +393,7 @@
          NOTE: to override a default config, remove the corresponding
          directive (and optionally add something to 'modules/custom')
     -->
-
-    <Import file='modules/default/AppliedEnergistics.xml'/>
+    <!--<Import file='modules/default/AppliedEnergistics.xml'/>
     <Import file='modules/default/ArsMagicka2.xml'/>
     <Import file='modules/default/BiomesOPlenty.xml'/>
     <Import file='modules/default/Chisel2.xml'/>
@@ -424,7 +423,7 @@
     <Import file='modules/default/Thaumcraft4.xml'/>
     <Import file='modules/default/ThermalFoundation.xml'/>
     <Import file='modules/default/TinkersConstruct.xml'/>
-    <Import file='modules/default/VanillaMinecraft.xml'/>
+    <Import file='modules/default/VanillaMinecraft.xml'/>-->
 
     <!-- ***************** Import Mod-provided configs ********************* -->
     <!-- NOTE: mods will overwrite these configs upon each load -->
