@@ -2,10 +2,19 @@
 
 Modpack for the game Minecraft (1.7.10) using forge (10.13.4.1448+)
 
-A world with technological progression mixed with limited magic where individual "lone wolf" survival is discourage. World Generation is influenced from TerraFirmaCraft, one node can be mined for a while but each node will be some distance from the next. Technology will require though, steam power can cause explosions if not properly built. RF based batteries have been disabled; this will increase fuel use and cause "loss" of potential power. Electrical systems will require thought on distribution pattern, and method of generation.
+Begin your journey into a world of technology that has been corrupted by magic where "lone wolf" survival is not the best option.  Sail the oceans and rivers (SHIPS MOD), trade with other players, create a faction and claim territory (Territorial Dealsing), Construct Mines (Custom Ore Generation), and Avoid colapsing blocks (BlockPhysics).
+
+Survival will be more difficult than your vanilla experiance!
+
+Mod Highlights
+- BuildCraft +addons
+- Forestry
+- Immersive Engineering +addons
+- Applied Energistics +addons
+- ThaumCraft +addons
 
 #TODO
-- Add MineColony. (Not Public ATM)
+- Add MineColony.
 
 #Permissions
 Mod permission list is available here: (Updated 9/26/2015)
