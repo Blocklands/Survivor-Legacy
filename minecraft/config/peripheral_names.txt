@@ -1,5 +1,7 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+buildcraft.transport.TileGenericPipeCompat	net_minecraft_src_buildcraft_transport_genericpipe
+crazypants.enderio.conduit.TileConduitBundle	blockconduitbundletileentity
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand
