@@ -15,6 +15,7 @@ Mod Highlights
 
 #TODO
 - Add MineColony.
+- Add TrainCraft. 
 
 #Permissions
 Mod permission list is available here: (Updated 9/26/2015)
