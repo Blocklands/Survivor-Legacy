@@ -66,6 +66,7 @@ recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid>
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli>);
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes>);
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>);
+recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay>);
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipefluidswood>);
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone>);
 recipes.removeShapeless(<BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone>);
@@ -205,10 +206,21 @@ recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>,
   [<ore:blockStainedHardenedClay>,<minecraft:glass>,<ore:blockStainedHardenedClay>],
   [<ore:ingotBrass>,<ore:ingotBrass>,<ore:ingotBrass>]]);
   
+recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay>,
+  [[null,<BuildCraft|Transport:pipeWaterproof>,null],
+  [null,<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone>,null],
+  [null,<BuildCraft|Transport:pipeWaterproof>,null]]); 
+  
+recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay>,
+  [[null,null,null],
+  [<BuildCraft|Transport:pipeWaterproof>,<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone>,<BuildCraft|Transport:pipeWaterproof>],
+  [null,null,null]]); 
+  
+  
 //GOLD PIPES  
 recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold>,
   [[<ore:ingotBrass>,<ore:ingotBrass>,<ore:ingotBrass>],
-  [<ore:pipeitemsgold>,<minecraft:glass>,<ore:pipeitemsgold>],
+  [<ore:ingotGold>,<minecraft:glass>,<ore:ingotGold>],
   [<ore:ingotBrass>,<ore:ingotBrass>,<ore:ingotBrass>]]);
 
 recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold>,
