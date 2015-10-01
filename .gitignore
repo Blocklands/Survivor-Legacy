@@ -1,16 +1,17 @@
 *
-/*
 !.gitignore
 !/minecraft
 !README.md
 
 /minecraft/*		
 !/minecraft/config/
-/minecraft/config/*.dat
 !/minecraft/mods/
 !/minecraft/scripts/
 !/minecraft/resourcepacks/
 !/minecraft/config/*
+!/minecraft/config/*/*
+!/minecraft/config/*/*/*
+!/minecraft/config/*/*/*/*
 !/minecraft/scripts/*
 !/minecraft/mods/*
 !/minecraft/resourcepacks/*
