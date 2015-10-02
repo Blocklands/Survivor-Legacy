@@ -5,7 +5,7 @@ import mods.buildcraft.Refinery;
 import mods.nei.NEI;
 
 //HIDDEN
-NEI.hide(<BuildCraft|Transport:pipeBlock>);
+//NEI.hide(<BuildCraft|Transport:pipeBlock>);
 
 //ADD RECIPIES
 recipes.removeShaped(<BuildCraft|Core:engineBlock:1>);
