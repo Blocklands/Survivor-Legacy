@@ -32,4 +32,3 @@ NEI.hide(<appliedenergistics2:tile.BlockCableBus>);
 NEI.hide(<LogisticsPipes:logisticsPipeBlock>);
 NEI.hide(<HardcoreQuesting:hqmInvalidItem>);
 NEI.hide(<MineFactoryReloaded:rednet.meter:2>);
-NEI.hide(<MineFactoryReloaded:rednet.meter:2>);
