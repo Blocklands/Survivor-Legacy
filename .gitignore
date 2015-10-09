@@ -15,6 +15,9 @@
 !/minecraft/scripts/*
 !/minecraft/mods/*
 !/minecraft/resourcepacks/*
+!/minecraft/resources/*
+!/minecraft/resources/*/*
+!/minecraft/resources/*/*/*
 
 /minecraft/config/MapWriterBlockColours.txt
 /minecraft/options.txt
