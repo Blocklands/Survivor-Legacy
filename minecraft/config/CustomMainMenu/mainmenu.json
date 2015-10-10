@@ -4,20 +4,20 @@
 		"black":
         {
             "image" : "mainmenu:textures/bg_menu.png",
-            "posX" : 95,
+            "posX" : -100,
             "posY" : -80,
             "width" : 200,
             "height" : 1500,
-            "alignment" : "top_left"
+            "alignment" : "top_center"
         },
 		"logo":
         {
             "image" : "mainmenu:textures/logo.png",
-            "posX" : 0,
+            "posX" : -238,
             "posY" : 0,
             "width" : 475,
             "height" : 240,
-            "alignment" : "top_left"
+            "alignment" : "top_center"
         }
 	
 	},
@@ -30,13 +30,13 @@
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : -40,
             "width" : 196,
             "height" : 30,
 			imageWidth : 100,
 			imageHeight : 50,
-			"alignment" : "left_center",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -50,13 +50,13 @@
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : -10,
             "width" : 196,
             "height" : 30,
 			imageWidth : 100,
 			imageHeight : 50,
-			"alignment" : "left_center",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -70,13 +70,13 @@
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : 30,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
 			imageHeight : 50,
-			"alignment" : "left_center",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -88,13 +88,13 @@
         {
             "text" : "options.language",
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : 50,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
 			imageHeight : 50,			
-			"alignment" : "left_center",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -108,14 +108,13 @@
 			"normalTextColor" : 16729156,
 			"hoverTextColor" : 14483456,
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : 70,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
 			imageHeight : 50,
-			"alignment" : "left_center",
-			"hoverText" : "No! Don't leave!",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "quit"
@@ -128,19 +127,20 @@
 			"normalTextColor" : 6710886,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
+            "posX" : -98,
             "posY" : 100,
-            "width" : 96,
+            "width" : 196,
             "height" : 20,
 			imageWidth : 100,
 			imageHeight : 50,
-			"alignment" : "left_center",
+			"alignment" : "center",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
+		
         "versionChecker":
         {
             "text" : "Version-Checker",
@@ -171,7 +171,7 @@
         
 		"packTxt":
         {
-            "text" : "AAIII - 0.0.1a",
+            "text" : "Release Candidate 1",
             "posX" : 2,
             "posY" : -25,
             "color" : -1,
