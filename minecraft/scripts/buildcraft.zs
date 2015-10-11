@@ -1,5 +1,4 @@
 import mods.buildcraft.AssemblyTable;
-import mods.buildcraft.IntegrationTable;
 import mods.buildcraft.Fuels;
 import mods.buildcraft.Refinery;
 import mods.nei.NEI;
@@ -396,7 +395,7 @@ recipes.addShaped(<BuildCraft|Builders:machineBlock>,
   [<ore:gearGold>,<ore:gearIron>,<ore:gearGold>],
   [<ore:gearDiamond>,<BuildCraft|Factory:miningWellBlock>,<ore:gearDiamond>]]); 
   
-recipes.addShapeless(<BuildCraft|Builders:markerBlock>,[<ore:torchRedstoneActive>,<ore:dyeBlue>]);
+recipes.addShapeless(<BuildCraft|Core:markerBlock>,[<ore:torchRedstoneActive>,<ore:dyeBlue>]);
 
 recipes.addShaped(<BuildCraft|Builders:blueprintItem>,
   [[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
