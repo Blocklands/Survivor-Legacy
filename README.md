@@ -2,7 +2,7 @@
 
 Modpack for the game Minecraft (1.7.10) using forge (10.13.4.1448+)
 
-Begin your journey into a world of technology that has been corrupted by magic where "lone wolf" survival is not the best option.  Sail the oceans and rivers (SHIPS MOD), trade with other players, create a faction and claim territory (Territorial Dealsing), Construct Mines (Custom Ore Generation), and Avoid colapsing blocks (BlockPhysics).
+Begin your journey into a world of technology that has been corrupted by magic where "lone wolf" survival is not the best option.  Sail the oceans and rivers (SHIPS MOD), trade with other players, create a faction and claim territory (Territorial Dealsing), Construct Mines (Custom Ore Generation), and Avoid colapsing blocks (~~BlockPhysics~~).
 
 Survival will be more difficult than your vanilla experiance!
 
@@ -15,7 +15,7 @@ Mod Highlights
 
 #TODO
 - Add MineColony.
-- Add TrainCraft. 
+- ~~Add TrainCraft~~. 
 
 #Permissions
 Mod permission list is available here: (Updated 9/26/2015)
