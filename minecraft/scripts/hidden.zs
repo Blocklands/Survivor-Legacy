@@ -20,7 +20,6 @@ NEI.hide(<TConstruct:BattleSignBlock>);
 NEI.hide(<TConstruct:slime.grass.tall>);
 NEI.hide(<ForbiddenMagic:UmbralBush>);
 NEI.hide(<EnderIO:blockLightNode>);
-NEI.hide(<weepingangels:plinth>);
 NEI.hide(<malisisdoors:item.custom_door>);
 NEI.hide(<malisisdoors:null>);
 NEI.hide(<enviromine:firegas>);
