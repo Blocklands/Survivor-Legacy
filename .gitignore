@@ -2,6 +2,7 @@
 !.gitignore
 !/minecraft
 !README.md
+!credits-menu.txt
 
 /minecraft/*		
 !/minecraft/config/
