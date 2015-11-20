@@ -27,7 +27,8 @@
 /minecraft/options.txt
 /minecraft/config/splash.properties
 !/minecraft/journeymap/
-!/minecraft/journeymap/data
+/minecraft/journeymap/data/
 /minecraft/journeymap/icon
+!/minecraft/journeymap/config/
 !/minecraft/journeymap/config/*
 !/minecraft/journeymap/config/*/*
