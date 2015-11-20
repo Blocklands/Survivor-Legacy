@@ -3,6 +3,18 @@
 		// Shhhhh!
 		"Secret Pumpkin": true
 	},
+	"client.music": {
+		"neutral volume": 100.0,
+		"record volume": 100.0,
+		"Enable Sound Control": false,
+		"player volume": 100.0,
+		"block volume": 100.0,
+		"music volume": 100.0,
+		"master volume": 100.0,
+		"weather volume": 100.0,
+		"ambient volume": 100.0,
+		"hostile volume": 100.0
+	},
 	"client": {
 		"neutral volume": 100.0,
 		"record volume": 100.0,
