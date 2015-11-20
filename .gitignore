@@ -26,7 +26,7 @@
 /minecraft/config/MapWriterBlockColours.txt
 /minecraft/options.txt
 /minecraft/config/splash.properties
-!/minecraft/journeymap/*
+!/minecraft/journeymap/
 !/minecraft/journeymap/data
 /minecraft/journeymap/icon
 !/minecraft/journeymap/config/*
