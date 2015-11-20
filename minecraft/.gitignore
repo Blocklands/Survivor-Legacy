@@ -1,1 +1,4 @@
 betterfps.txt
+journeymap/config/*
+journeymap/*
+!journeymap/data/
