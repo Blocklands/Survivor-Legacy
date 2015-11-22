@@ -355,7 +355,6 @@ ae2stuff:Encoder, Pattern Encoder
 ae2stuff:Grower, Crystal Growth Chamber
 ae2stuff:Inscriber, Advanced Inscriber
 ae2stuff:Wireless, Wireless Connector
-bettersleeping:bettersleeping_alarm, Alarm Clock
 BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
 BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
 BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
@@ -447,6 +446,13 @@ BiblioCraft:BiblioFancySign:3, Jungle Fancy Sign
 BiblioCraft:BiblioFancySign:4, Acacia Fancy Sign
 BiblioCraft:BiblioFancySign:5, Dark Oak Fancy Sign
 BiblioCraft:BiblioFancySign:6, Framed Fancy Sign
+BiblioCraft:BiblioWorkbench:0, Oak Fancy Workbench
+BiblioCraft:BiblioWorkbench:1, Spruce Fancy Workbench
+BiblioCraft:BiblioWorkbench:2, Birch Fancy Workbench
+BiblioCraft:BiblioWorkbench:3, Jungle Fancy Workbench
+BiblioCraft:BiblioWorkbench:4, Acacia Fancy Workbench
+BiblioCraft:BiblioWorkbench:5, Dark Oak Fancy Workbench
+BiblioCraft:BiblioWorkbench:6, Framed Fancy Workbench
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -705,13 +711,6 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, TNT Cart
 minecraft:hopper_minecart, Hopper Cart
-BiblioCraft:BiblioWorkbench:0, Oak Fancy Workbench
-BiblioCraft:BiblioWorkbench:1, Spruce Fancy Workbench
-BiblioCraft:BiblioWorkbench:2, Birch Fancy Workbench
-BiblioCraft:BiblioWorkbench:3, Jungle Fancy Workbench
-BiblioCraft:BiblioWorkbench:4, Acacia Fancy Workbench
-BiblioCraft:BiblioWorkbench:5, Dark Oak Fancy Workbench
-BiblioCraft:BiblioWorkbench:6, Framed Fancy Workbench
 BiblioCraft:BiblioBell, Desk Bell
 BiblioCraft:Bibliotheca:0, Oak Bookcase
 BiblioCraft:Bibliotheca:1, Spruce Bookcase
@@ -755,12 +754,6 @@ BiblioCraft:BiblioCase:3, Jungle Case
 BiblioCraft:BiblioCase:4, Acacia Case
 BiblioCraft:BiblioCase:5, Dark Oak Case
 BiblioCraft:BiblioCase:6, Framed Case
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 BiblioCraft:BiblioLabel:0, Oak Wood Label
 BiblioCraft:BiblioLabel:1, Spruce Wood Label
 BiblioCraft:BiblioLabel:2, Birch Wood Label
@@ -768,6 +761,12 @@ BiblioCraft:BiblioLabel:3, Jungle Wood Label
 BiblioCraft:BiblioLabel:4, Acacia Label
 BiblioCraft:BiblioLabel:5, Dark Oak Label
 BiblioCraft:BiblioLabel:6, Framed Label
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
 BiblioCraft:BiblioDesk:0, Oak Desk
 BiblioCraft:BiblioDesk:1, Spruce Desk
 BiblioCraft:BiblioDesk:2, Birch Desk
@@ -4506,57 +4505,6 @@ roar:placer, ROAR Placer
 roar:breaker, ROAR Breaker
 roar:filteredHopper, ROAR Filtered Hopper
 roar:crafter, ROAR Autocrafter
-streams:river/tile.water/-2/-2, Water
-streams:river/tile.water/-2/-1, Water
-streams:river/tile.water/-2/0, Water
-streams:river/tile.water/-2/1, Water
-streams:river/tile.water/-2/2, Water
-streams:river/tile.water/-1/-2, Water
-streams:river/tile.water/-1/2, Water
-streams:river/tile.water/0/-2, Water
-streams:river/tile.water/0/0, Water
-streams:river/tile.water/0/2, Water
-streams:river/tile.water/1/-2, Water
-streams:river/tile.water/1/2, Water
-streams:river/tile.water/2/-2, Water
-streams:river/tile.water/2/-1, Water
-streams:river/tile.water/2/0, Water
-streams:river/tile.water/2/1, Water
-streams:river/tile.water/2/2, Water
-streams:river/tile.lava/-2/-2, Lava
-streams:river/tile.lava/-2/-1, Lava
-streams:river/tile.lava/-2/0, Lava
-streams:river/tile.lava/-2/1, Lava
-streams:river/tile.lava/-2/2, Lava
-streams:river/tile.lava/-1/-2, Lava
-streams:river/tile.lava/-1/2, Lava
-streams:river/tile.lava/0/-2, Lava
-streams:river/tile.lava/0/0, Lava
-streams:river/tile.lava/0/2, Lava
-streams:river/tile.lava/1/-2, Lava
-streams:river/tile.lava/1/2, Lava
-streams:river/tile.lava/2/-2, Lava
-streams:river/tile.lava/2/-1, Lava
-streams:river/tile.lava/2/0, Lava
-streams:river/tile.lava/2/1, Lava
-streams:river/tile.lava/2/2, Lava
-streams:river/ice/-2/-2, Ice
-streams:river/ice/-2/-1, Ice
-streams:river/ice/-2/0, Ice
-streams:river/ice/-2/1, Ice
-streams:river/ice/-2/2, Ice
-streams:river/ice/-1/-2, Ice
-streams:river/ice/-1/2, Ice
-streams:river/ice/0/-2, Ice
-streams:river/ice/0/0, Ice
-streams:river/ice/0/2, Ice
-streams:river/ice/1/-2, Ice
-streams:river/ice/1/2, Ice
-streams:river/ice/2/-2, Ice
-streams:river/ice/2/-1, Ice
-streams:river/ice/2/0, Ice
-streams:river/ice/2/1, Ice
-streams:river/ice/2/2, Ice
 thaumicenergistics:thaumicenergistics.block.essentia.provider, Essentia Provider
 thaumicenergistics:thaumicenergistics.block.infusion.provider, Infusion Provider
 thaumicenergistics:thaumicenergistics.block.gear.box, Iron Gear Box
@@ -4666,7 +4614,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Crafting Table
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Netherrack
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Soul Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - White Stained Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Stained Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Stained Glass
@@ -4698,9 +4645,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Mushroom
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Melon
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - End Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Lamp
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Emerald
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Redstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Quartz Block
@@ -5151,21 +5096,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Gold
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Gold
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Gold
@@ -5461,21 +5391,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Purpur
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Purpur
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Purpur
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Purpur
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sandstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sandstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Sandstone
@@ -6109,9 +6024,6 @@ appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
 ae2stuff:WirelessKit, Wireless Setup Kit
 ae2stuff:Visualiser, Network Visualisation Tool
-bettersleeping:bettersleeping_ringwatch, Wristwatch on a Ring
-bettersleeping:bettersleeping_pillSleeping, Sleeping Pill
-bettersleeping:bettersleeping_pillCaffeine, Caffeine Pill
 BiblioCraft:item.StockroomCatalog, Stockroom Catalog
 BiblioCraft:item.PlumbLine, Plumb line
 BiblioCraft:item.FramingSaw, Framing Saw
