@@ -3699,47 +3699,6 @@ computronics:computronics.locomotiveRelay, Digital Locomotive Relay
 computronics:computronics.digitalBox, Digital Signal Receiver Box
 computronics:computronics.detector, Detector - Digital
 computronics:computronics.ticketMachine, Ticket Machine
-customitems:red_sand, Red Sand
-customitems:pink_sand, Pink Sand
-customitems:green_sand, Green Sand
-customitems:blue_sand, Blue Sand
-customitems:dark_quartz_pillar, Dark quartz pillar
-customitems:dark_quartz, Dark quartz
-customitems:chiseled_dark_quartz, Chiseled Dark quartz
-customitems:diorite, Diorite
-customitems:polished_diorite, Polished Diorite
-customitems:andesite, Andesite
-customitems:polished_andesite, Polished Andesite
-customitems:granite, Granite
-customitems:polished_granite, Polished Granite
-customitems:coarse_dirt, Coarse Dirt
-customitems:red_sandstone, Red Sandstone
-customitems:chiseled_red_sandstone, Chiseled Red Sandstone
-customitems:smooth_red_sandstone, Smooth Red Sandstone
-customitems:red_sandstone_slab:0, Red Sandstone Slab
-customitems:double_red_sandstone_slab:0, Red Sandstone Slab
-customitems:red_sandstone_stairs, Red Sandstone Stairs
-customitems:prismarine, Prismarine
-customitems:prismarine_bricks, Prismarine Bricks
-customitems:dark_prismarine, Dark Prismarine
-customitems:sea_lantern, Sea Lantern
-customitems:spruce_fence, Spruce Fence
-customitems:birch_fence, Birch Fence
-customitems:jungle_fence, Jungle Fence
-customitems:dark_oak_fence, Dark Oak Fence
-customitems:acacia_fence, Acacia Fence
-customitems:single_item_chest, Single item Chest
-customitems:greeni, Greeni
-customitems:tower, tower
-customitems:nova_water, Nova_water
-customitems:nova_lava, Nova Lava
-customitems:custom_glass, Custom Glass
-customitems:custom_glass_pane, Custom Glass Pane
-customitems:custom_glass_stairs, Custom Glass Stairs
-customitems:custom_glass_slab:0, Custom Glass Slab
-customitems:double_custom_glass_slab:0, Custom Glass Slab
-customitems:custom_glass_fence, Custom Glass Fence
-customitems:custom_glass_wall, Custom Glass Wall
 props:blockProps, tile.null.name
 props:blockFake, tile.null.name
 enviromine:gas, Gas
@@ -4505,6 +4464,57 @@ roar:placer, ROAR Placer
 roar:breaker, ROAR Breaker
 roar:filteredHopper, ROAR Filtered Hopper
 roar:crafter, ROAR Autocrafter
+streams:river/tile.water/-2/-2, Water
+streams:river/tile.water/-2/-1, Water
+streams:river/tile.water/-2/0, Water
+streams:river/tile.water/-2/1, Water
+streams:river/tile.water/-2/2, Water
+streams:river/tile.water/-1/-2, Water
+streams:river/tile.water/-1/2, Water
+streams:river/tile.water/0/-2, Water
+streams:river/tile.water/0/0, Water
+streams:river/tile.water/0/2, Water
+streams:river/tile.water/1/-2, Water
+streams:river/tile.water/1/2, Water
+streams:river/tile.water/2/-2, Water
+streams:river/tile.water/2/-1, Water
+streams:river/tile.water/2/0, Water
+streams:river/tile.water/2/1, Water
+streams:river/tile.water/2/2, Water
+streams:river/tile.lava/-2/-2, Lava
+streams:river/tile.lava/-2/-1, Lava
+streams:river/tile.lava/-2/0, Lava
+streams:river/tile.lava/-2/1, Lava
+streams:river/tile.lava/-2/2, Lava
+streams:river/tile.lava/-1/-2, Lava
+streams:river/tile.lava/-1/2, Lava
+streams:river/tile.lava/0/-2, Lava
+streams:river/tile.lava/0/0, Lava
+streams:river/tile.lava/0/2, Lava
+streams:river/tile.lava/1/-2, Lava
+streams:river/tile.lava/1/2, Lava
+streams:river/tile.lava/2/-2, Lava
+streams:river/tile.lava/2/-1, Lava
+streams:river/tile.lava/2/0, Lava
+streams:river/tile.lava/2/1, Lava
+streams:river/tile.lava/2/2, Lava
+streams:river/ice/-2/-2, Ice
+streams:river/ice/-2/-1, Ice
+streams:river/ice/-2/0, Ice
+streams:river/ice/-2/1, Ice
+streams:river/ice/-2/2, Ice
+streams:river/ice/-1/-2, Ice
+streams:river/ice/-1/2, Ice
+streams:river/ice/0/-2, Ice
+streams:river/ice/0/0, Ice
+streams:river/ice/0/2, Ice
+streams:river/ice/1/-2, Ice
+streams:river/ice/1/2, Ice
+streams:river/ice/2/-2, Ice
+streams:river/ice/2/-1, Ice
+streams:river/ice/2/0, Ice
+streams:river/ice/2/1, Ice
+streams:river/ice/2/2, Ice
 thaumicenergistics:thaumicenergistics.block.essentia.provider, Essentia Provider
 thaumicenergistics:thaumicenergistics.block.infusion.provider, Infusion Provider
 thaumicenergistics:thaumicenergistics.block.gear.box, Iron Gear Box
@@ -4513,6 +4523,7 @@ thaumicenergistics:thaumicenergistics.block.essentia.cell.workbench, Essentia Ce
 thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
+TravellersGear:armorstand, Armor Stand
 yegamolchattels:tikiTorch, Tiki Torch
 yegamolchattels:statue, Statue
 yegamolchattels:treasurePile, Treasure Pile
@@ -5722,28 +5733,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.na
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - End Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Sand
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark quartz pillar
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark quartz
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Dark quartz
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Diorite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Diorite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Andesite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Andesite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Granite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Polished Granite
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Coarse Dirt
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Sandstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Red Sandstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Red Sandstone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Sandstone Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Prismarine
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Prismarine Bricks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Prismarine
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sea Lantern
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
@@ -7324,17 +7313,6 @@ computronics:computronics.partsForestry:0, Caustic Comb
 computronics:computronics.partsForestry:1, Caustic Drop
 computronics:computronics.droneStation, Drone Docking Station
 computronics:computronics.dockingUpgrade:0, Drone Docking Upgrade
-customitems:fire_jumping_banana, Fire Jumping Banana
-customitems:raw_mutton, Raw Mutton
-customitems:cooked_mutton, Cooked Mutton
-customitems:coin, Coin
-customitems:prismarine_crystals, Prismarine Crystals
-customitems:prismarine_shard, Prismarine Shard
-customitems:greeni_bucket, Greeni Bucket
-customitems:tower_bucket, tower Bucket
-customitems:nova_water_bucket, Nova_water Bucket
-customitems:nova_lava_bucket, Nova Lava Bucket
-customitems:god_sword, God Sword
 props:props:0, Stuffed Creeper
 props:props:1, Wine Bottle
 props:props:2, Grandfather Clock
@@ -9991,6 +9969,24 @@ thaumicenergistics:material:2, Iron Gear
 thaumicenergistics:wireless.essentia.terminal, Wireless Essentia Terminal
 thaumicenergistics:knowledge.core, Knowledge Core
 thaumicenergistics:focus.aewrench, Wand Focus: AE Wrench - Wrench Mode Disabled
+TravellersGear:simpleGear:0, Cloak
+TravellersGear:simpleGear:1, Belt
+TravellersGear:simpleGear:2, Gold Ring
+TravellersGear:simpleGear:3, Silver Ring
+TravellersGear:simpleGear:4, Pauldrons
+TravellersGear:simpleGear:5, Vambraces
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
+TravellersGear:simpleGear:6, Title Scroll
 yegamolchattels:bannerSmall:0, Small Black Banner
 yegamolchattels:bannerSmall:1, Small Red Banner
 yegamolchattels:bannerSmall:2, Small Green Banner
