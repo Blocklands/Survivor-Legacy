@@ -1,10 +1,7 @@
 import mods.nei.NEI;
 
 NEI.hide(<compacter:Cobbler>);
-NEI.hide(<enviromine:burningcoal>);
 NEI.hide(<TConstruct:HeldItemBlock>);
-NEI.hide(<cuchaz.ships:blockAirWall>);
-NEI.hide(<cuchaz.ships:blockAirRoof>);
 NEI.hide(<appliedenergistics2:tile.BlockMatrixFrame>);
 NEI.hide(<appliedenergistics2:tile.BlockPaint>);
 NEI.hide(<Thaumcraft:blockArcaneFurnace>);
@@ -22,8 +19,6 @@ NEI.hide(<ForbiddenMagic:UmbralBush>);
 NEI.hide(<EnderIO:blockLightNode>);
 NEI.hide(<malisisdoors:item.custom_door>);
 NEI.hide(<malisisdoors:null>);
-NEI.hide(<enviromine:firegas>);
-NEI.hide(<enviromine:gas>);
 NEI.hide(<chisel:amber>);
 NEI.hide(<OpenComputers:caseCreative>);
 NEI.hide(<appliedenergistics2:tile.BlockCableBus>);
